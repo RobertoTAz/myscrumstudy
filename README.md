@@ -79,5 +79,5 @@ Para conhecer todos os detalhes técnicos e contextuais deste caso, acesse o art
 
 ---
 
-📁 *Este material compõe o portfólio profissional de projetos ágeis e pode ser consultado no GitHub para fins de aprendizado, networking e demonstração de conhecimento prático.*
+📁 *Este material compõe o portfólio profissional de formação em Scrum Master oferecido pela plataforma DIO e pode ser consultado no GitHub para fins de aprendizado, networking e demonstração de conhecimento prático.*
 
